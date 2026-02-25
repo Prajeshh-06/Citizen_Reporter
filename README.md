@@ -22,7 +22,7 @@ The system integrates:
 🚀 Live Demo
 
 Production URL:
-https://your-vercel-url.vercel.app
+https://citizen-reporter-beta.vercel.app/
 
 🏗 Architecture
 
