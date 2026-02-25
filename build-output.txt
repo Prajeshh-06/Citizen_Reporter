@@ -1,0 +1,134 @@
+﻿
+> nextjs-app@0.1.0 build
+> next build
+
+node.exe : [baseline-browser-mapping] The data in this 
+module is over two months old.  To ensure accurate 
+Baseline data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([baseline 
+   -brows...ping@latest -D`:String) [], RemoteExcepti  
+  on
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ ΓÜá Warning: Next.js inferred your workspace root, 
+but it may not be correct.
+ We detected multiple lockfiles and selected the 
+directory of C:\Users\mrrob\package-lock.json as the 
+root directory.
+ To silence this warning, set `turbopack.root` in your 
+Next.js config, or consider removing one of the 
+lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config
+/next-config-js/turbopack#root-directory for more 
+information.
+ Detected additional lockfiles: 
+   * C:\Users\mrrob\Documents\AntiGrav\Smart_City_Repor
+ter-main\Smart_City_Reporter-main\package-lock.json
+
+   Γû▓ Next.js 16.0.0 (Turbopack)
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+ Γ£ô Compiled successfully in 5.1s
+   Running TypeScript ...
+   Collecting page data ...
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+   Generating static pages (0/22) ...
+[baseline-browser-mapping] The data in this module is 
+over two months old.  To ensure accurate Baseline 
+data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+   Generating static pages (5/22) 
+   Generating static pages (10/22) 
+   Generating static pages (16/22) 
+ Γ£ô Generating static pages (22/22) in 948.3ms
+   Finalizing page optimization ...
+
+Route (app)
+Γöî Γùï /
+Γö£ Γùï /_not-found
+Γö£ ╞Æ /api/auth/google/verify
+Γö£ ╞Æ /api/auth/login
+Γö£ ╞Æ /api/auth/register
+Γö£ ╞Æ /api/geo/divisions
+Γö£ ╞Æ /api/geo/locate
+Γö£ ╞Æ /api/geo/ward-zones
+Γö£ ╞Æ /api/health
+Γö£ ╞Æ /api/issues
+Γö£ ╞Æ /api/issues/[id]
+Γö£ ╞Æ /api/issues/[id]/comment
+Γö£ ╞Æ /api/issues/[id]/feedback
+Γö£ ╞Æ /api/issues/[id]/flag
+Γö£ ╞Æ /api/issues/[id]/status
+Γö£ ╞Æ /api/issues/[id]/upvote
+Γö£ ╞Æ /api/issues/analytics
+Γö£ ╞Æ /api/issues/search
+Γö£ ╞Æ /api/issues/upload
+Γö£ ╞Æ /api/issues/ward/[slug]
+Γö£ Γùï /dashboard
+Γö£ Γùï /dashboard/admin
+Γö£ Γùï /dashboard/citizen
+Γö£ Γùï /dashboard/municipality
+Γö£ ╞Æ /issue/[id]/edit
+Γö£ Γùï /login
+Γö£ Γùï /register
+Γö£ Γùï /upload
+Γöö ╞Æ /wards/[slug]
+
+
+Γùï  (Static)   prerendered as static content
+╞Æ  (Dynamic)  server-rendered on demand
+

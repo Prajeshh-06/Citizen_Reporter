@@ -1,0 +1,228 @@
+﻿
+> nextjs-app@0.1.0 lint
+> eslint
+
+node.exe : [baseline-browser-mapping] The data in 
+this module is over two months old.  To ensure 
+accurate Baseline data, please update: `npm i 
+baseline-browser-mapping@latest -D`
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" 
+"C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: 
+([baseline    -brows...ping@latest -D`:String) 
+[], RemoteExcepti    on
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\api\googleAuth.js
+   1:17  error    A `require()` style import is forbidden     @typescript-eslint/no-require-imports
+   2:7   warning  'axios' is assigned a value but never used  @typescript-eslint/no-unused-vars
+   2:15  error    A `require()` style import is forbidden     @typescript-eslint/no-require-imports
+   3:26  error    A `require()` style import is forbidden     @typescript-eslint/no-require-imports
+  32:12  warning  'error' is defined but never used           @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\api\index.js
+    2:1   error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+    4:17  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+    5:14  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+    6:16  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+    7:14  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+    8:12  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+    9:7   warning  'fsp' is assigned a value but never used     @typescript-eslint/no-unused-vars
+    9:13  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   10:14  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   11:18  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   12:35  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   13:22  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   14:31  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   15:69  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   16:19  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   17:24  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   18:16  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   19:14  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   21:19  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   22:22  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   25:26  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   26:26  error    A `require()` style import is forbidden      @typescript-eslint/no-require-imports
+   79:7   warning  'upload' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  169:12  warning  'err' is defined but never used              @typescript-eslint/no-unused-vars
+  339:16  warning  'err' is defined but never used              @typescript-eslint/no-unused-vars
+  963:12  warning  'e' is defined but never used                @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\api\issues\analytics\route.js
+  25:12  warning  'stats' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\api\locator.js
+   1:12  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+   2:14  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+   3:14  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  10:19  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\api\middleware\authenticate.js
+  2:15  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  3:26  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\api\middleware\validate.js
+  1:9   warning  'ZodError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  1:22  error    A `require()` style import is forbidden        @typescript-eslint/no-require-imports
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\api\validation\extra.js
+  2:15  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\api\validation\issues.js
+  1:15  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\components\ClientMap.jsx
+   3:17  warning  'useEffect' is defined but never used     @typescript-eslint/no-unused-vars
+   3:28  warning  'useState' is defined but never used      @typescript-eslint/no-unused-vars
+  38:11  warning  'map' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\components\IssueCard.jsx
+   11:3    warning  'IconButton' is defined but never used               @typescript-eslint/no-unused-vars
+   93:102  warning  '_' is defined but never used                        @typescript-eslint/no-unused-vars
+  109:55   warning  '_' is defined but never used                        @typescript-eslint/no-unused-vars
+  119:16   warning  '_' is defined but never used                        @typescript-eslint/no-unused-vars
+  158:23   warning  'setImageSource' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  236:23   warning  'e' is defined but never used                        @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\components\IssueHistory.jsx
+  12:3  warning  'ArrowDownward' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\components\MapViewClient.jsx
+  5:51  warning  'Stack' is defined but never used   @typescript-eslint/no-unused-vars
+  9:10  warning  'Button' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\components\Navbar.jsx
+  37:9  warning  'theme' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\components\dashboards\StatusUpdateModal.jsx
+  7:5   warning  'Typography' is defined but never used  @typescript-eslint/no-unused-vars
+  7:17  warning  'Chip' is defined but never used        @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\dashboard\admin\AdminDashboard.jsx
+    3:31  warning  'useMemo' is defined but never used             @typescript-eslint/no-unused-vars
+    6:5   warning  'TextField' is defined but never used           @typescript-eslint/no-unused-vars
+    6:24  warning  'Dialog' is defined but never used              @typescript-eslint/no-unused-vars
+    6:32  warning  'DialogTitle' is defined but never used         @typescript-eslint/no-unused-vars
+    6:45  warning  'DialogContent' is defined but never used       @typescript-eslint/no-unused-vars
+    7:5   warning  'DialogActions' is defined but never used       @typescript-eslint/no-unused-vars
+    7:20  warning  'CircularProgress' is defined but never used    @typescript-eslint/no-unused-vars
+    7:38  warning  'Divider' is defined but never used             @typescript-eslint/no-unused-vars
+   11:5   warning  'AdminPanelSettings' is defined but never used  @typescript-eslint/no-unused-vars
+  113:12  warning  'email' is assigned a value but never used      @typescript-eslint/no-unused-vars
+  113:19  warning  'setEmail' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  114:12  warning  'role' is assigned a value but never used       @typescript-eslint/no-unused-vars
+  114:18  warning  'setRole' is assigned a value but never used    @typescript-eslint/no-unused-vars
+  115:12  warning  'ward' is assigned a value but never used       @typescript-eslint/no-unused-vars
+  115:18  warning  'setWard' is assigned a value but never used    @typescript-eslint/no-unused-vars
+  212:13  warning  'user' is assigned a value but never used       @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\dashboard\citizen\CitizenDashboard.jsx
+   5:22  warning  'Grid' is defined but never used              @typescript-eslint/no-unused-vars
+   5:50  warning  'CircularProgress' is defined but never used  @typescript-eslint/no-unused-vars
+   6:20  warning  'Divider' is defined but never used           @typescript-eslint/no-unused-vars
+   9:5   warning  'TrendingUp' is defined but never used        @typescript-eslint/no-unused-vars
+   9:17  warning  'CheckCircle' is defined but never used       @typescript-eslint/no-unused-vars
+   9:30  warning  'Warning' is defined but never used           @typescript-eslint/no-unused-vars
+   9:39  warning  'PendingActions' is defined but never used    @typescript-eslint/no-unused-vars
+  16:8   warning  'Link' is defined but never used              @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\dashboard\municipality\MunicipalityDashboard.jsx
+  6:56  warning  'CircularProgress' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\login\page.jsx
+  12:10  warning  'alpha' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\pages\Dashboard.jsx
+  2:27  warning  'Paper' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\pages\UploadView.jsx
+  203:18  warning  '_' is defined but never used                                                                                                                                                                                                                                                            @typescript-eslint/no-unused-vars
+  326:25  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  377:27  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\pages\UploadView.new.jsx
+  172:18  warning  '_' is defined but never used                                                                                                                                                                                                                                                            @typescript-eslint/no-unused-vars
+  377:25  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  494:27  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\pages\WardIssues.jsx
+   63:5   error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  61 |
+  62 |   useEffect(() => {
+> 63 |     setIssues([]);
+     |     ^^^^^^^^^ Avoid calling setState() directly within an effect
+  64 |     setPage(1);
+  65 |     setHasMore(true);
+  66 |     setError('');  react-hooks/set-state-in-effect
+  302:22  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      react/no-unescaped-entities
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\providers\ThemeProvider.tsx
+  206:5  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\providers\ThemeProvider.tsx:206:5
+  204 |
+  205 |   useEffect(() => {
+> 206 |     setMounted(true);
+      |     ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  207 |     const savedMode = localStorage.getItem('darkMode');
+  208 |     if (savedMode !== null) {
+  209 |       setDarkMode(savedMode === 'true');  react-hooks/set-state-in-effect
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\app\upload\page.jsx
+  203:18  warning  '_' is defined but never used                                                                                                                                                                                                                                                            @typescript-eslint/no-unused-vars
+  398:25  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  464:27  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\context\AuthContext.jsx
+  23:7  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  21 |     if (stored && isTokenValid(stored)) {
+  22 |       const payload = decodeToken(stored);
+> 23 |       setTokenState(stored);
+     |       ^^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  24 |       setUser(payload);
+  25 |     } else if (stored) {
+  26 |       // Expired token ΓÇö purge it  react-hooks/set-state-in-effect
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\lib\locator.js
+   1:12  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+   2:14  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+   3:14  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  10:19  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\scripts\fix-upvotes.js
+  7:1   error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  8:25  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\scripts\sync-upvote-counts.js
+  7:1   error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  8:25  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+C:\Users\mrrob\Documents\AntiGrav\Smart_City_Reporter-main\Smart_City_Reporter-main\utils\exif-parser-client.js
+  2:10  warning  'parseDMS' is defined but never used  @typescript-eslint/no-unused-vars
+
+Γ£û 106 problems (45 errors, 61 warnings)
+
